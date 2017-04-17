@@ -13,3 +13,5 @@ Encode videos following three cases of GoP (Group of Picture):
 - GoP = I
 - GoP = IB
 - GoP = IBB
+
+For more detail, please see the [report](https://github.com/vuanhtuan1012/hybrid-video-coder/blob/master/VUAnhTuan_report.pdf)
