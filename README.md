@@ -1,1 +1,1 @@
-# hybrid-video-coder
+# Hybrid Video Coder
